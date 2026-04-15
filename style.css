@@ -12,7 +12,7 @@ html {
 .boox {
    max-width: 1591px;
     margin: 0 auto;
-       background-image: url('./img/Vector1.png'), url('./img/Vector5.png'), url('./img/Vector6.png'), url('./img/Vector12.png');
+       background-image: url('../img/Vector1.png'), url('../img/Vector5.png'), url('../img/Vector6.png'), url('../img/Vector12.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(-10%) top calc(850px), left calc(0%) top calc(700px), right calc(-200px) top calc(3000px);
   background-size: auto;
@@ -24,7 +24,7 @@ html {
 .boox {
    max-width: 1591px;
     margin: 0 auto;
-       background-image: url('./img/Vector1.png'), url('./img/Vector6.png'), url('./img/Vector12.png');
+       background-image: url('../img/Vector1.png'), url('../img/Vector6.png'), url('../img/Vector12.png');
   background-repeat: no-repeat;
   background-position: right calc(-150px) top calc(-100px), left calc(-150px) top calc(800px), right calc(-150px) top calc(3500px);
   background-size: auto;
@@ -186,7 +186,7 @@ html {
     justify-content: center;
     height: 500px;
     text-align: center;
-    background-image:url('./img/Vector3.png'), url('./img/Vector2.png'), url('./img/Vector4.png') ;
+    background-image:url('../img/Vector3.png'), url('../img/Vector2.png'), url('../img/Vector4.png') ;
   background-repeat: no-repeat;
   background-position: 250px center, left, right calc(15%) bottom calc(-30%);
   background-size: auto;
@@ -201,7 +201,7 @@ background-attachment: local;
     justify-content: center;
     height: 500px;
     text-align: center;
-    background-image:url('./img/Vector2.png');
+    background-image:url('../img/Vector2.png');
   background-repeat: no-repeat;
   background-position: left calc(-300px) top;
   background-size: auto;
@@ -690,7 +690,7 @@ background-attachment: local;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('./img/Vector7.png'), url('./img/Vector8.png');
+  background-image: url('../img/Vector7.png'), url('../img/Vector8.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(10%) bottom;
   background-size: auto;
@@ -833,7 +833,7 @@ background-attachment: local;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('./img/Vector7.png'), url('./img/Vector8.png');
+  background-image: url('../img/Vector7.png'), url('../img/Vector8.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(10%) bottom;
   background-size: auto;
@@ -907,7 +907,7 @@ background-attachment: local;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('./img/Vector7.png'), url('./img/Vector8.png');
+  background-image: url('../img/Vector7.png'), url('../img/Vector8.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(10%) bottom;
   background-size: auto;
@@ -970,7 +970,7 @@ background-attachment: local;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('./img/Vector7.png'), url('./img/Vector8.png');
+  background-image: url('../img/Vector7.png'), url('../img/Vector8.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(10%) bottom;
   background-size: auto;
@@ -1006,7 +1006,7 @@ background-attachment: local;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background-image: url('./img/Vector7.png'), url('./img/Vector8.png');
+  background-image: url('../img/Vector7.png'), url('../img/Vector8.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(10%) bottom;
   background-size: auto;
@@ -1231,7 +1231,7 @@ background-attachment: local;
 /* ——— Voice cards ——— */
 
 .voices {
-     background-image: url('./img/Vector9.png'), url('./img/Vector12.png'), url('./img/Vector11.png');
+     background-image: url('../img/Vector9.png'), url('../img/Vector12.png'), url('../img/Vector11.png');
   background-repeat: no-repeat;
   background-position: right calc(200px) top, left calc(-200px) top, right bottom calc(-200px);
   background-size: auto;
@@ -1407,7 +1407,7 @@ font-weight: 700;
   /* ——— ОТЗЫВЫ ——— */
 
   .vec-rs {
-                 background-image: url('./img/Group5.png'), url('./img/Group6.png');
+                 background-image: url('../img/Group5.png'), url('../img/Group6.png');
   background-repeat: no-repeat;
 background-position: left top, right bottom;
   background-size: auto;
@@ -1419,7 +1419,7 @@ background-position: left top, right bottom;
   @media (max-width: 1100px) {
   
  .vec-rs {
-                 background-image: url('./img/Group5.png'), url('./img/Group6.png');
+                 background-image: url('../img/Group5.png'), url('../img/Group6.png');
   background-repeat: no-repeat;
 background-position: left top, right bottom calc(50px);
   background-size: 100px;
@@ -1651,7 +1651,7 @@ text-align: center;
   }
 
   .faq {
-    background-image: url('./img/Vector13.png'), url('./img/Vector14.png');
+    background-image: url('../img/Vector13.png'), url('../img/Vector14.png');
   background-repeat: no-repeat;
 background-position: right calc(142px) top, right top;
   background-size: auto;
