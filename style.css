@@ -47,6 +47,8 @@ html {
     position: fixed;
   background-color: #93ABD8;
   width: 100%;
+     max-width: 1591px;
+  margin: 0 auto;
   margin-top: -20px;
   padding-bottom: 5px;
   z-index: 2000;
