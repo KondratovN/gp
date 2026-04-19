@@ -12,7 +12,7 @@ html {
 .boox {
    max-width: 1591px;
     margin: 0 auto;
-       background: url('../img/Vector1.png'), url('../img/Vector5.png'), url('../img/Vector6.png'), url('../img/Vector12.png');
+       background-image: url('../img/Vector1.png'), url('../img/Vector5.png'), url('../img/Vector6.png'), url('../img/Vector12.png');
   background-repeat: no-repeat;
   background-position: right top, right calc(-10%) top calc(850px), left calc(0%) top calc(700px), right calc(-200px) top calc(3000px);
   background-size: auto;
